@@ -6,9 +6,15 @@ Line 5
 Line 6
 Line 7
 Line 8
+<<<<<<< HEAD
 Line 9
 Line 10 Conflict
 Line 11 This is from master branch
+=======
+Line 9 This is from Feature A branch
+Line 10 This is a test of merging - will be a conflict
+Line 11
+>>>>>>> Feature-A
 Line 12
 Line 13
 Line 14
